@@ -13,7 +13,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sreyash308&label=Profile%20Views&color=00F5D4&style=for-the-badge&logo=eye" alt="Profile Views" />
     <a href="https://github.com/Sreyash308?tab=followers"><img src="https://img.shields.io/github/followers/Sreyash308?label=Followers&logo=github&style=for-the-badge&color=7928CA&logoColor=white" alt="Followers" /></a>
-    <a href="https://github.com/Sreyash308?tab=repositories"><img src="https://img.shields.io/github/stars/Sreyash308?label=Stars&logo=reverbnation&style=for-the-badge&color=FF007A&logoColor=white" alt="Total Stars" /></a>
+    <a href="https://github.com/Sreyash308?tab=repositories"><img src="https://img.shields.io/badge/Repos-15-FF007A?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" /></a>
   </p>
 
   <!-- Social & Connect Matrix -->
@@ -92,47 +92,35 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sreyash308&theme=tokyonight&no-realtime=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
 ### 📊 Dynamic GitHub Analytics & Activity
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sreyash308&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&locale=en&hide_border=false" width="100%" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreyash308&theme=tokyonight" width="100%" alt="Profile Details" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreyash308&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreyash308&theme=tokyonight" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreyash308&theme=tokyonight" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=Sreyash308&theme=tokyonight&border_radius=10" width="100%" alt="Streak Stats" />
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreyash308&theme=tokyonight&border_radius=10&hide_border=false" width="95%" alt="Streak Stats" />
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreyash308&theme=tokyo-night&hide_border=false&border_radius=10" width="100%" alt="Activity Graph" />
-  </p>
 </div>
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sreyash308/Sreyash308/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://ghchart.rshah.org/00F5D4/Sreyash308" alt="Sreyash's GitHub Chart" width="100%" />
 </div>
 
 ---
@@ -140,32 +128,14 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 ### 🚀 Featured Highlights & Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Sreyash308/sih26106-threat-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreyash308&repo=sih26106-threat-platform&theme=tokyonight&border_radius=10" width="100%" alt="SIH Threat Platform" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sreyash308/money">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreyash308&repo=money&theme=tokyonight&border_radius=10" width="100%" alt="Money - Cafe Menu" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Sreyash308/IIIT-Insider">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreyash308&repo=IIIT-Insider&theme=tokyonight&border_radius=10" width="100%" alt="IIIT-Insider" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Sreyash308/dish-decoder">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreyash308&repo=dish-decoder&theme=tokyonight&border_radius=10" width="100%" alt="Dish Decoder" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| Project | Description | Stack & Stats |
+| :--- | :--- | :---: |
+| 🛡️ **[SIH Threat Platform](https://github.com/Sreyash308/sih26106-threat-platform)** | Intelligent cyber threat intelligence and monitoring platform for Smart India Hackathon. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Status](https://img.shields.io/badge/Active-00F5D4?style=flat-square) |
+| ☕ **[Money - Cafe Web App](https://github.com/Sreyash308/money)** | Bit-for-bit responsive, interactive Cafe Menu & ordering web application. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Frontend](https://img.shields.io/badge/Responsive-FF007A?style=flat-square) |
+| 🌐 **[IIIT-Insider](https://github.com/Sreyash308/IIIT-Insider)** | Campus portal web project built with modern frontend & transitioning to React architecture. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🍲 **[Dish Decoder](https://github.com/Sreyash308/dish-decoder)** | Interactive application for recipe discovery, dish analysis, and food exploration. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI/ML](https://img.shields.io/badge/Smart%20Search-7928CA?style=flat-square) |
+
 </div>
 
 ---
