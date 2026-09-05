@@ -92,6 +92,18 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 
 ---
 
+### 🐍 Contribution Activity Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreyash308/Sreyash308/main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreyash308/Sreyash308/main/assets/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sreyash308/Sreyash308/main/assets/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 📊 Dynamic GitHub Analytics & Activity
 
 <div align="center">
@@ -113,14 +125,6 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 📈 Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00F5D4/Sreyash308" alt="Sreyash's GitHub Chart" width="100%" />
 </div>
 
 ---
