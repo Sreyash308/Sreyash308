@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=220&section=header&text=Sreyash%20Gaddam&fontSize=50&fontAlignY=38&desc=%E2%9A%A1%20Crafting%20Intelligent%20Web%20Experiences%20%26%20AI%20Systems%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" />
+  <a href="https://github.com/Sreyash308">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7928CA,100:00F5D4&fontColor=ffffff&height=220&section=header&text=Sreyash%20Gaddam&fontSize=50&fontAlignY=38&desc=%E2%9A%A1%20Crafting%20Intelligent%20Web%20Experiences%20%26%20AI%20Systems%20%E2%9A%A1&descAlignY=62&descAlign=50" width="100%" />
+  </a>
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Sreyash308">
@@ -153,5 +155,5 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 
 <div align="center">
   <!-- Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,3,2,0&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:7928CA,100:1a1b27&height=120&section=footer" width="100%" />
 </div>
