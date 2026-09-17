@@ -13,7 +13,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sreyash308&label=Profile%20Views&color=00F5D4&style=for-the-badge&logo=eye" alt="Profile Views" />
     <a href="https://github.com/Sreyash308?tab=followers"><img src="https://img.shields.io/github/followers/Sreyash308?label=Followers&logo=github&style=for-the-badge&color=7928CA&logoColor=white" alt="Followers" /></a>
-    <a href="https://github.com/Sreyash308?tab=repositories"><img src="https://img.shields.io/badge/Repos-15-FF007A?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" /></a>
+    <a href="https://github.com/Sreyash308?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?color=FF007A&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSreyash308&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" /></a>
   </p>
 
   <!-- Social & Connect Matrix -->
@@ -21,14 +21,14 @@
     <a href="mailto:sreyash308@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/" target="_blank">
+    <a href="https://linkedin.com/in/sreyash308" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <a href="https://www.codechef.com/users/sreyash308" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
     </a>
-    <a href="https://twitter.com" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/Sreyash308" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)" />
     </a>
     <a href="https://github.com/Sreyash308" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -107,24 +107,23 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 ### 📊 Dynamic GitHub Analytics & Activity
 
 <div align="center">
+  <!-- Panoramic Profile Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreyash308&theme=tokyonight" width="100%" alt="Profile Details" />
+  <br/><br/>
+  <!-- Twin Matched Analytics Cards -->
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreyash308&theme=tokyonight" width="100%" alt="Profile Details" />
-      </td>
-      <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sreyash308&theme=tokyonight" width="100%" alt="Top Languages" />
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sreyash308&theme=tokyonight" width="100%" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Sreyash308&theme=tokyonight&border_radius=10" width="100%" alt="Streak Stats" />
-      </td>
     </tr>
   </table>
+  <br/>
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=Sreyash308&theme=tokyonight&border_radius=10" width="100%" alt="Streak Stats" />
 </div>
 
 ---
@@ -147,7 +146,7 @@ philosophy: "Turn complex challenges into elegant, high-impact code."
 ### 💡 Daily Dev Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="600" />
 </div>
 
 <br/>
